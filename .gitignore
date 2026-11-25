@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Secrets (Claude API key in Phase 4)
+.env
+
+# Raw interview notes. Never commit, only anonymised versions go to docs/
+private/
